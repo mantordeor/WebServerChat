@@ -1,0 +1,19 @@
+﻿  ChatClient.c
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(38,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(43,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(48,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(53,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(58,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(63,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(68,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(73,9): warning C4033: 'judge' 必須傳回值
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(183,24): warning C4047: '函式': 'SIZE_T' 與 'void *' 間接取值的層級不同
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(183,24): warning C4024: 'CreateThread': 型式和實質參數 2 不同的類型
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(183,77): warning C4047: '函式': 'DWORD' 與 'void *' 間接取值的層級不同
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(183,77): warning C4024: 'CreateThread': 型式和實質參數 5 不同的類型
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(204,47): warning C4047: '函式': 'int' 與 'void *' 間接取值的層級不同
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(204,47): warning C4024: 'send': 型式和實質參數 4 不同的類型
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(219,43): warning C4047: '函式': 'int' 與 'void *' 間接取值的層級不同
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(219,43): warning C4024: 'recv': 型式和實質參數 4 不同的類型
+C:\Users\CPEB\Desktop\LinkGame\ChatClient\ChatClient.c(75,1): warning C4716: 'judge': 必須傳回值
+  ChatClient.vcxproj -> C:\Users\CPEB\Desktop\LinkGame\Debug\ChatClient.exe
